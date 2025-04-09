@@ -2,7 +2,7 @@
 **Data Engineer | Data Warehouse Engineer | Data Analyst**  
 
 📍 Johannesburg, South Africa  
-📧 bosarenofaza@gmail.com  
+📧 sabelo.remember.ndlovu@gmail.com  
 📱 076 819 9714  
 
 ---
