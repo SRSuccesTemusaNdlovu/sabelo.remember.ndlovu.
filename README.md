@@ -111,8 +111,37 @@ I’m a dynamic data engineering professional with a knack for transforming comp
 - Agile workflows and collaborative development  
 
 ---
+## 🚀 Projects
+
+### 🔹 [Consume GitHub API with Python](https://github.com/YourUsername/consume-github-api-python)
+A Python-based project that fetches pull requests using the GitHub API. It handles rate limits, pagination, filtering by date, and separates fetching and filtering logic for clean code.
+
+**Tech Used**: Python, Requests, GitHub REST API, Pagination Handling
+
+---
+
+### 🔹 [Bank Account & Interest Calculator](https://github.com/YourUsername/banking-system)
+Simulates a banking system with support for interest rates, compound interest, balance checks, and error handling.
+
+**Tech Used**: Python, OOP, Decimal, Pytest
+
+---
+
+### 🔹 [COVID-19 Data Analysis](https://github.com/YourUsername/covid-data-analysis)
+Analyzed real-world COVID-19 data to uncover trends using Pandas, matplotlib, and seaborn.
+
+**Tech Used**: Python, Pandas, Data Visualization
+
+---
+
+### 🔹 [Sales Performance Dashboard with Power BI](https://github.com/YourUsername/sales-dashboard)
+Created an interactive sales dashboard to visualize KPIs and regional performance trends.
+
+**Tech Used**: Power BI, DAX, Data Modeling
+---
+
 
 ## 📫 Let's Connect  
 - [LinkedIn](https://https://www.linkedin.com/in/sabelo-remember-ndlovu-427297311/)  
 - [GitHub](https://srsuccestemusandlovu.github.io/)
-- [Email](https://github.com/SabeloRemember-Ndlovu)  
+
