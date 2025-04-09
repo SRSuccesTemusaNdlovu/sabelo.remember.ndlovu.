@@ -1,8 +1,6 @@
-# Sabelo Remember Ndlovu  
-**Data Engineer / Data Warehouse Engineer / Data Analyst**  
 
 <div align="left" style="display: flex; align-items: center; gap: 20px;">
-  <img src="assets/profile.jpg" alt="Sabelo Ndlovu" width="100" style="border-radius: 50%; border: 2px solid #ccc;" />
+  <img src="assets/profile.jpg" alt="Sabelo Ndlovu" width="100" style="border-radius: 20%; border: 2px solid #ccc;" />
   <div>
     <h1>Sabelo Remember Ndlovu</h1>
     <strong>Data Engineer / Data Warehouse Engineer / Data Analyst</strong>
