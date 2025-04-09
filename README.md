@@ -1,4 +1,4 @@
-**Data Engineer | Data Warehouse Engineer | Data Analyst** 
+# Data Engineer | Data Warehouse Engineer | Data Analyst 
 
 📍 Johannesburg, South Africa  
 📧 sabelo.remember.ndlovu@gmail.com  
