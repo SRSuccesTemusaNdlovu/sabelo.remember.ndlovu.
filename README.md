@@ -13,12 +13,20 @@ I’m a dynamic data engineering professional with a knack for transforming comp
 ---
 
 ## 💼 Employment History  
+### Data Engineer Recruit – Umuzi, Johannesburg  
+**March 2024 – March 2025**
 
-**Data Engineer Recruit** – Umuzi, Johannesburg  
-*March 2024 – March 2025*  
-- Developed and optimized data pipelines (ETL/ELT) for scalable infrastructure.  
-- Managed databases and worked with cloud technologies for efficient data storage.  
-- Applied big data tools to ensure data accessibility for BI solutions.
+- Developed and optimized robust **ETL/ELT pipelines** using **Microsoft Fabric Dataflows Gen2** for ingesting structured and semi-structured data.  
+- Designed and implemented scalable data infrastructure using **OneLake** and **Lakehouse architecture** in Microsoft Fabric.  
+- Built **Lakehouse-to-Warehouse pipelines** to enable real-time reporting and analytics in **Power BI**.  
+- Utilized **Fabric Notebooks (Python & Spark)** for data exploration, transformation, and automation of large-scale data processing tasks.  
+- Integrated **Azure Data Factory** and **Fabric Pipelines** to orchestrate end-to-end workflows across various cloud services.  
+- Created and managed **semantic models** to enable self-service BI through **Direct Lake mode**, minimizing latency and maximizing performance.  
+- Optimized **SQL queries** within Fabric environments to ensure fast and efficient data access.  
+- Collaborated in an agile team, using **GitHub** for version control and **GitHub Actions** for CI/CD on Fabric-based deployments.  
+- Ensured data quality and lineage through **Data Quality Rules** and **Lineage Views** in Fabric.  
+- Delivered data for dashboards, reports, and insights used by stakeholders across departments.
+
 
 **Mathematics Teacher** – Likhweti Primary School, Nelspruit  
 *January 2023 – February 2024*  
