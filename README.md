@@ -1,5 +1,8 @@
 # Sabelo Remember Ndlovu  
-**Data Engineer | Data Warehouse Engineer | Data Analyst**  
+**Data Engineer / Data Warehouse Engineer / Data Analyst**  
+
+![Sabelo Remember Ndlovu](assets/profile.jpg)
+
 
 📍 Johannesburg, South Africa  
 📧 sabelo.remember.ndlovu@gmail.com  
