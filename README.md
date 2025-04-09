@@ -50,17 +50,58 @@ I’m a dynamic data engineering professional with a knack for transforming comp
 
 ---
 
-## 💡 Skills  
+## 💡 Skills
 
-### 🛠️ Tools & Technologies  
-- **Data Engineering**: ETL/ELT, Airflow, Apache Spark, Databricks  
-- **Programming**: Python, SQL  
-- **Cloud Platforms**: Microsoft Azure, IBM Cloud  
-- **Data Warehousing**: Snowflake, IBM Db2, Azure Synapse  
-- **Analytics**: Power BI, Google Data Studio, Excel  
-- **Database Management**: PostgreSQL, MySQL, Oracle  
-- **Version Control**: Git & GitHub  
-- **Workflow Optimization**: Microsoft Fabric  
+### 🛠️ Data Engineering  
+- Building scalable data pipelines (ETL/ELT)  
+- Handling batch and streaming data flows  
+- Data ingestion from APIs, cloud sources, and files  
+- Data cleansing, transformation, and validation  
+- Workflow orchestration using Apache Airflow and Microsoft Fabric pipelines  
+
+### 🗄️ Data Warehousing  
+- Designing modern data warehouses with **Microsoft Fabric Lakehouse**  
+- Implementing **OneLake**, **Direct Lake**, and **Delta Lake** for scalable storage  
+- Building semantic models for business intelligence  
+- Dimensional modeling (Star and Snowflake schemas)  
+- Experience with **IBM Db2**, **Azure Synapse**, and **Microsoft Fabric Warehouse**  
+
+### 🌐 Cloud Platforms & Big Data  
+- **Microsoft Azure** (Blob Storage, Data Factory, Azure SQL, Synapse)  
+- **Azure Databricks** (PySpark, MLlib, Delta Lake)  
+- **Microsoft Fabric** (Dataflows Gen2, Lakehouse, Notebooks, Pipelines)  
+- Familiarity with IBM Cloud Services  
+
+### 📊 Data Analytics & Visualization  
+- **Power BI** for dashboarding and business reporting  
+- **Google Data Studio / Looker Studio**  
+- Data storytelling and stakeholder reporting  
+- Exploratory Data Analysis (EDA) and visual insights  
+- DAX expressions for modeling and calculations  
+
+### 🧠 Machine Learning & Statistics  
+- Implementing ML workflows with **Spark MLlib**  
+- Regression, Classification, Feature Engineering  
+- Train-test splitting and model evaluation techniques  
+
+### 💾 Databases & Querying  
+- SQL (joins, subqueries, window functions, optimization)  
+- Microsoft Fabric SQL, **PostgreSQL**, **MySQL**, **IBM Db2**, **Azure SQL Database**  
+- Understanding of NoSQL concepts (covered in Fabric and Azure ecosystem)  
+- Query tuning and performance monitoring  
+
+### 👨‍💻 Programming & Tools  
+- Python (Pandas, NumPy, requests, datetime, Spark APIs)  
+- Git & GitHub (version control, CI/CD basics)  
+- Jupyter Notebooks & Fabric Notebooks  
+- Working with structured data: JSON, CSV, Parquet, Excel  
+- Consuming and building RESTful APIs  
+
+### 🔧 Workflow & DevOps  
+- Data pipeline orchestration using **Microsoft Fabric Pipelines**  
+- GitHub Actions for automation  
+- Data quality checks and monitoring  
+- Agile workflows and collaborative development  
 
 ---
 
