@@ -118,4 +118,5 @@ I’m a dynamic data engineering professional with a knack for transforming comp
 
 ## 📫 Let's Connect  
 - [LinkedIn](https://www.linkedin.com/in/sabelondlovu)  
-- [GitHub](https://github.com/SabeloRemember-Ndlovu)  
+- [GitHub](https://github.com/SabeloRemember-Ndlovu)
+- [Email](https://github.com/SabeloRemember-Ndlovu)  
