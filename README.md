@@ -1,11 +1,4 @@
-
-<div align="left" style="display: flex; align-items: center; gap: 20px;">
-  <img src="assets/profile.jpg" alt="Sabelo Ndlovu" width="100" style="border-radius: 20%; border: 2px solid #ccc;" />
-  <div>
-    <strong>Data Engineer / Data Warehouse Engineer / Data Analyst</strong>
-  </div>
-</div>
-
+**Data Engineer | Data Warehouse Engineer | Data Analyst** 
 
 📍 Johannesburg, South Africa  
 📧 sabelo.remember.ndlovu@gmail.com  
