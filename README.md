@@ -1,3 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Sabelo Remember Ndlovu Portfolio</title>
+  <style>
+    .border-wrapper {
+      border: 8px solid #007ACC;
+      padding: 25px;
+      max-width: 1200px;
+      margin: 30px auto;
+      box-shadow: 0px 0px 15px rgba(0,0,0,0.2);
+      border-radius: 12px;
+      background-color: #fefefe;
+    }
+  </style>
+</head>
+<body>
+  <div class="border-wrapper">
+
 # Data Engineer | Data Warehouse Engineer | Data Analyst 
 
 📍 Johannesburg, South Africa  
@@ -144,4 +164,11 @@ Created an interactive sales dashboard to visualize KPIs and regional performanc
 ## 📫 Let's Connect  
 - [LinkedIn](https://https://www.linkedin.com/in/sabelo-remember-ndlovu-427297311/)  
 - [GitHub](https://srsuccestemusandlovu.github.io/)
+
+
+  </div>
+</body>
+</html>
+
+
 
