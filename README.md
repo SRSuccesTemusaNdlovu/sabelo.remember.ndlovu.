@@ -120,7 +120,7 @@ A Python-based project that fetches pull requests using the GitHub API. It handl
 
 ---
 
-### 🔹 [Bank Account & Interest Calculator](https://github.com/YourUsername/banking-system)
+### 🔹 [Bank Account & Interest Calculator](https://github.com/SRSuccesTemusaNdlovu/Bank-Account---Interest-Calculator)
 Simulates a banking system with support for interest rates, compound interest, balance checks, and error handling.
 
 **Tech Used**: Python, OOP, Decimal, Pytest
