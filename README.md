@@ -142,7 +142,7 @@ Created an interactive sales dashboard to visualize KPIs and regional performanc
 
 
 ## 📫 Let's Connect  
-- [LinkedIn](https://https://www.linkedin.com/in/sabelo-remember-ndlovu-427297311/)  
+- [LinkedIn](https://https://www.linkedin.com/in/sabelo-remember-ndlovu)  
 - [GitHub](https://srsuccestemusandlovu.github.io/)
 
 
