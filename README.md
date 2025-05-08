@@ -113,7 +113,7 @@ I’m a dynamic data engineering professional with a knack for transforming comp
 ---
 ## 🚀 Projects
 
-### 🔹 [Consume GitHub API with Python](https://github.com/YourUsername/consume-github-api-python)
+### 🔹 [Consume GitHub API with Python](https://github.com/SRSuccesTemusaNdlovu/Consume-GitHub-Api)
 A Python-based project that fetches pull requests using the GitHub API. It handles rate limits, pagination, filtering by date, and separates fetching and filtering logic for clean code.
 
 **Tech Used**: Python, Requests, GitHub REST API, Pagination Handling
@@ -127,8 +127,8 @@ Simulates a banking system with support for interest rates, compound interest, b
 
 ---
 
-### 🔹 [COVID-19 Data Analysis](https://github.com/YourUsername/covid-data-analysis)
-Analyzed real-world COVID-19 data to uncover trends using Pandas, matplotlib, and seaborn.
+### 🔹 [Retail Sales Data Analysis](https://github.com/SRSuccesTemusaNdlovu/Retail-Sales-Data-Analysis)
+Retail Sales SQL Analysis is a SQL-based data project that sets up a PostgreSQL database and performs data cleaning and exploratory analysis on retail transaction data. It includes schema creation and a collection of queries to extract business insights such as customer behavior, sales trends, and category performance.
 
 **Tech Used**: Python, Pandas, Data Visualization
 
