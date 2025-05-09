@@ -167,6 +167,11 @@ Designs and implements a relational database for shop operations.
 🔹 **[Python and MongoDB](https://github.com/SRSuccesTemusaNdlovu/Python-and-MongoDB)**  
 Implements a visitor tracking system using MongoDB and Python.  
 **Tech Used**: Python, Pymongo, Mongomock, Docker Compose
+
+🔹 **[Library Management System](https://github.com/SRSuccesTemusaNdlovu/Library-Management-System)**  
+This project demonstrates the implementation of a Library Management System using SQL.  
+**Tech Used**: PostgreSQL
+
 ---
 
 ## 📫 Let's Connect  
