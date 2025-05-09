@@ -46,14 +46,12 @@ I’m a dynamic data engineering professional with a knack for transforming comp
 
 ## 📜 Certificates  
 
-- [IBM Data Engineering Professional Certificate](https://www.credly.com/badges/bb67b154-2a34-43e5-b6f6-f4a39b52922b/public_url)  
-- [IBM Data Warehouse Professional Certificate](https://www.credly.com/badges/d6f93c79-4c87-4ac5-880c-139e49f9aa8a/public_url)  
-- [Microsoft Azure Fundamentals (DP-900)](https://learn.microsoft.com/en-us/users/sabelondlovu-6853/credentials)  
-- [Google Data Analytics Professional Certificate](https://www.coursera.org/account/accomplishments/professional-cert/xyz123)  
-- [Microsoft Fabric Certificate](https://learn.microsoft.com/en-us/users/sabelondlovu-6853/credentials)  
-- [Azure Databricks & Spark and Microsoft Fabric](https://www.udemy.com/certificate/UC-abc123/)  
-
-> ⚠️ Replace `xyz123`, `abc123`, and Credly links above with actual links if different
+- IBM Data Engineering Professional Certificate 
+- IBM Data Warehouse Professional Certificate 
+- Microsoft Azure Fundamentals (DP-900)
+- Google Data Analytics Professional Certificate
+- Microsoft Fabric Certificate
+- Azure Databricks & Spark and Microsoft Fabric 
 
 ---
 
