@@ -116,7 +116,7 @@ I’m a dynamic data engineering professional with a knack for transforming comp
 ### 🔹 [Consume GitHub API with Python](https://github.com/SRSuccesTemusaNdlovu/Consume-GitHub-Api)
 A Python-based project that fetches pull requests using the GitHub API. It handles rate limits, pagination, filtering by date, and separates fetching and filtering logic for clean code.
 
-**Tech Used**: Python, Requests, GitHub REST API, Pagination Handling
+**Tech Used**: Python, Requests, GitHub REST API, Pagination Handling, Pytest
 
 ---
 
@@ -130,14 +130,62 @@ Simulates a banking system with support for interest rates, compound interest, b
 ### 🔹 [Retail Sales Data Analysis](https://github.com/SRSuccesTemusaNdlovu/Retail-Sales-Data-Analysis)
 Retail Sales SQL Analysis is a SQL-based data project that sets up a PostgreSQL database and performs data cleaning and exploratory analysis on retail transaction data. It includes schema creation and a collection of queries to extract business insights such as customer behavior, sales trends, and category performance.
 
-**Tech Used**: Python, Pandas, Data Visualization
+**Tech Used**: PostgreSql
 
 ---
 
-### 🔹 [Sales Performance Dashboard with Power BI](https://github.com/YourUsername/sales-dashboard)
+### 🔹 [Data Wrangling and Analysis for Personality Risk Profiling](https://github.com/SRSuccesTemusaNdlovu/Data-Wrangling-and-Analysis-for-Personality-Risk-Profiling)
 Created an interactive sales dashboard to visualize KPIs and regional performance trends.
 
-**Tech Used**: Power BI, DAX, Data Modeling
+**Tech Used**: Pandas
+
+### 🔹 [VisitorTracker: JSON-Based Visitor Management](https://github.com/SRSuccesTemusaNdlovu/VisitorTracker-JSON-Based-Visitor-Management)
+
+This is a file-based data persistence project using Python OOP and JSON, suitable for small-scale data tracking without databases.
+
+**Tech Used**: Python Standard Library, Object-Oriented Programming (OOP), Assertions, File I/O
+
+### 🔹 [Password Strength Checker](https://github.com/SRSuccesTemusaNdlovu/Password-sStrength-Checker)
+
+The Password Checker project is a Python tool designed to evaluate password strength based on various criteria.
+
+**Tech Used**: Python Standard Library, Pytest
+
+### 🔹 [SQL Shop Databse](https://github.com/SRSuccesTemusaNdlovu/Sql-Shop-Database)
+
+This project sets up a PostgreSQL database for a shop, including tables for customers, employees, products, payments, and orders.
+
+**Tech Used**: Docker compose, PostgreSql
+
+### 🔹 [Python and MongoDB](https://https://github.com/SRSuccesTemusaNdlovu/Python-and-MongoDB)
+
+This project provides a visitor management service using MongoDB and Python.
+
+**Tech Used**: Docker compose, Pymongo, Mongomock, Pytest, Python-dotenv
+
+### 🔹 [Shopping Busket Analysis](https://github.com/SRSuccesTemusaNdlovu/Shopping-Basket-Analysis)
+
+This project analyzes customer shopping data using Python
+
+**Tech Used**: Python
+
+### 🔹 [String Calculator](https://github.com/SRSuccesTemusaNdlovu/The-String-Calculator-project)
+
+This project provides a simple implementation of a calculator that can parse and sum numbers from a string input. It supports custom delimiters and handles edge cases such as negative numbers and invalid inputs.
+
+**Tech Used**: Python, Pytest
+
+### 🔹 [String Calculator](https://github.com/SRSuccesTemusaNdlovu/The-String-Calculator-project)
+
+This project provides a simple implementation of a calculator that can parse and sum numbers from a string input. It supports custom delimiters and handles edge cases such as negative numbers and invalid inputs.
+
+**Tech Used**: Python, Pytest
+
+### 🔹 [Validate South African ID](https://github.com/SRSuccesTemusaNdlovu/Validate-South-African-ID)
+
+This project provides a Python module to validate South African ID numbers. The module checks for the correct format, valid date of birth, gender digits, citizenship digits, and the Luhn algorithm checksum.
+
+**Tech Used**: Python, Pytest
 ---
 
 
