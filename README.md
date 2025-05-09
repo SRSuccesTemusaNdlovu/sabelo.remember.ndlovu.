@@ -186,6 +186,7 @@ This project provides a simple implementation of a calculator that can parse and
 This project provides a Python module to validate South African ID numbers. The module checks for the correct format, valid date of birth, gender digits, citizenship digits, and the Luhn algorithm checksum.
 
 **Tech Used**: Python, Pytest
+
 ---
 
 
