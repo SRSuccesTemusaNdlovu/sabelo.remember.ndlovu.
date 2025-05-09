@@ -186,14 +186,6 @@ This project provides a simple implementation of a calculator that can parse and
 
 ---
 
-### 🔹 [String Calculator](https://github.com/SRSuccesTemusaNdlovu/The-String-Calculator-project)
-
-This project provides a simple implementation of a calculator that can parse and sum numbers from a string input. It supports custom delimiters and handles edge cases such as negative numbers and invalid inputs.
-
-**Tech Used**: Python, Pytest
-
----
-
 
 ### 🔹 [Validate South African ID](https://github.com/SRSuccesTemusaNdlovu/Validate-South-African-ID)
 
