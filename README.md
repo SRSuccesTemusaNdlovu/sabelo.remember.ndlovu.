@@ -191,7 +191,7 @@ This project provides a Python module to validate South African ID numbers. The 
 
 
 ## 📫 Let's Connect  
-- [LinkedIn](https://https://www.linkedin.com/in/sabelo-remember-ndlovu)  
+- [LinkedIn](https://www.linkedin.com/in/sabelo-remember-ndlovu)  
 - [GitHub](https://srsuccestemusandlovu.github.io/)
 
 
