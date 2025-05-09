@@ -139,6 +139,7 @@ Created an interactive sales dashboard to visualize KPIs and regional performanc
 
 **Tech Used**: Pandas
 
+---
 ### 🔹 [VisitorTracker: JSON-Based Visitor Management](https://github.com/SRSuccesTemusaNdlovu/VisitorTracker-JSON-Based-Visitor-Management)
 
 This is a file-based data persistence project using Python OOP and JSON, suitable for small-scale data tracking without databases.
@@ -151,11 +152,15 @@ The Password Checker project is a Python tool designed to evaluate password stre
 
 **Tech Used**: Python Standard Library, Pytest
 
+---
+
 ### 🔹 [SQL Shop Databse](https://github.com/SRSuccesTemusaNdlovu/Sql-Shop-Database)
 
 This project sets up a PostgreSQL database for a shop, including tables for customers, employees, products, payments, and orders.
 
 **Tech Used**: Docker compose, PostgreSql
+
+---
 
 ### 🔹 [Python and MongoDB](https://https://github.com/SRSuccesTemusaNdlovu/Python-and-MongoDB)
 
@@ -163,23 +168,32 @@ This project provides a visitor management service using MongoDB and Python.
 
 **Tech Used**: Docker compose, Pymongo, Mongomock, Pytest, Python-dotenv
 
+---
+
 ### 🔹 [Shopping Busket Analysis](https://github.com/SRSuccesTemusaNdlovu/Shopping-Basket-Analysis)
 
 This project analyzes customer shopping data using Python
 
 **Tech Used**: Python
 
-### 🔹 [String Calculator](https://github.com/SRSuccesTemusaNdlovu/The-String-Calculator-project)
-
-This project provides a simple implementation of a calculator that can parse and sum numbers from a string input. It supports custom delimiters and handles edge cases such as negative numbers and invalid inputs.
-
-**Tech Used**: Python, Pytest
+---
 
 ### 🔹 [String Calculator](https://github.com/SRSuccesTemusaNdlovu/The-String-Calculator-project)
 
 This project provides a simple implementation of a calculator that can parse and sum numbers from a string input. It supports custom delimiters and handles edge cases such as negative numbers and invalid inputs.
 
 **Tech Used**: Python, Pytest
+
+---
+
+### 🔹 [String Calculator](https://github.com/SRSuccesTemusaNdlovu/The-String-Calculator-project)
+
+This project provides a simple implementation of a calculator that can parse and sum numbers from a string input. It supports custom delimiters and handles edge cases such as negative numbers and invalid inputs.
+
+**Tech Used**: Python, Pytest
+
+---
+
 
 ### 🔹 [Validate South African ID](https://github.com/SRSuccesTemusaNdlovu/Validate-South-African-ID)
 
