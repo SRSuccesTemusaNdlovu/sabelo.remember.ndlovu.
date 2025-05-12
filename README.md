@@ -176,7 +176,6 @@ This project demonstrates the implementation of a Library Management System usin
 
 🔹 **[CircuitFlow: A Spark Data Engineering Pipeline](https://github.com/SRSuccesTemusaNdlovu/Spark-Data-Engineering-Pipeline)**  
 An end-to-end data pipeline that reads raw CSV data from Azure Lakehouse, transforms it with PySpark, and writes the results to a processed zone in Parquet format.
-
 **Tech Used**: PySpark, Azure OneLake, Data Lakehouse, Structured Streaming (optional), ETL Design
 
 ---
